@@ -1,2 +1,2 @@
-# Mitt-reop
-mitt första reop
+# Mitt-repo
+mitt första repo
